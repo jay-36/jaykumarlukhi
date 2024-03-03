@@ -1,6 +1,6 @@
 ## Hi, I'm Jaykumar Lukhi.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/jay-36/Constrain/main/constrains/Assets.xcassets/AppIcon.appiconset/developer.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
 ### About Me 
 🔭 I’m currently working on Flutter, Android and iOS<br>
